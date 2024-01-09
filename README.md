@@ -12,7 +12,7 @@ Detecting Hardware Trojan using Machine Learning Techniques
 To run the program use ```python3 main.py```
 
 ## Disclaimer
-Please submit issues and how to improve it in a more efficient way.
+Please submit issues and how to improve it in a more efficient way.You can add more data sets to make this more effective.
 Thank you;
 From Author
 @henry-n2
