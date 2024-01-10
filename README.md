@@ -1,5 +1,5 @@
 # Machine-Learning-Technique-to-Detect-Hardware-Trojan
-Detecting Hardware Trojan using Machine Learning Techniques
+Detecting Hardware Trojan using Machine Learning Techniques and deep learning models
 
 ## Requirements
 1. Python  3.12.1 or the latest
